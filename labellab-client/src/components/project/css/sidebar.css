@@ -1,0 +1,24 @@
+.sidebar-parent {
+  width: 25%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.profile-first-leftbar {
+  margin: 1em;
+}
+.sidebar-image-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.sidebar-menu-parent {
+  margin-top: 2em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.delete-project-button {
+  width: 80%;
+}
